@@ -1,0 +1,37 @@
+h3{
+    color: blue;
+}
+
+#titulo5{
+    color: pink;
+}
+.titulo2{
+    color: pink;
+}
+#elmejortitulo{
+    color: springgreen;
+    background-color: red;
+    font-size: 150px;
+}
+.cuadrado {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.cuadrado2 {
+    width: 20%;
+    height: 20%;
+    background-color: violet;
+}
+.rhcp{
+    width: 250px;
+    height: 250px;
+    background-image: url( ./imagenes/red-hot-chili-peppers-logo-1024x776.jpeg);
+background-size:contain;
+background-repeat: no-repeat;
+}
+
+#tituloone{
+    color:rgb(135, 44, 55);
+    background-color: brown;
+}
